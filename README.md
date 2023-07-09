@@ -29,7 +29,7 @@ python3.7 Quran.py [او حسب اصدار البايثون لديك]
 
 ## المساهمة
 
-إذا كنت ترغب في المساهمة في تحسين هذا المشروع، فلا تتردد في إرسال طلب استلام (Pull Request) أو فتح قضية (Issue) في [مستودع المشروع](https://github.com/your-username/telebot).
+إذا كنت ترغب في المساهمة في تحسين هذا المشروع، فلا تتردد في إرسال طلب استلام (Pull Request) أو فتح قضية (Issue) في [مستودع المشروع]([https://github.com/your-username/telebot](https://github.com/ma9za/Quran-Karim-Bot-Telegram)).
 
 ## المؤلف
 
